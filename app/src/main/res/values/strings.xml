@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="sakib_imam">SAKIB IMAM</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="todo">TODO</string>
+    <string name="signInWithGoogle">Sign in with Google</string>
+</resources>
